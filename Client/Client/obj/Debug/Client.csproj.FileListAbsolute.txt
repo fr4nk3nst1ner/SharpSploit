@@ -1,0 +1,8 @@
+C:\tools\SharpSploit-master\Client\Client\Client\bin\Debug\Client.exe.config
+C:\tools\SharpSploit-master\Client\Client\Client\bin\Debug\Client.exe
+C:\tools\SharpSploit-master\Client\Client\Client\bin\Debug\Client.pdb
+C:\tools\SharpSploit-master\Client\Client\Client\bin\Debug\SharpSploit.dll
+C:\tools\SharpSploit-master\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\tools\SharpSploit-master\Client\Client\Client\obj\Debug\Client.exe
+C:\tools\SharpSploit-master\Client\Client\Client\obj\Debug\Client.pdb
+C:\tools\SharpSploit-master\Client\Client\Client\bin\Debug\NDesk.Options.dll
